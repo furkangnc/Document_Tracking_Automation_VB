@@ -1,0 +1,32 @@
+C:\Users\Eksantrix\Desktop\Rapid Chat\Rapid Chat\bin\Debug\Rapid Chat.exe.config
+C:\Users\Eksantrix\Desktop\Rapid Chat\Rapid Chat\bin\Debug\Rapid Chat.exe
+C:\Users\Eksantrix\Desktop\Rapid Chat\Rapid Chat\bin\Debug\Rapid Chat.pdb
+C:\Users\Eksantrix\Desktop\Rapid Chat\Rapid Chat\bin\Debug\Rapid Chat.xml
+C:\Users\Eksantrix\Desktop\Rapid Chat\Rapid Chat\bin\Debug\IconComboBox.xml
+C:\Users\Eksantrix\Desktop\Rapid Chat\Rapid Chat\bin\Debug\RapChatLib.pdb
+C:\Users\Eksantrix\Desktop\Rapid Chat\Rapid Chat\bin\Debug\RapChatLib.xml
+C:\Users\Eksantrix\Desktop\Rapid Chat\Rapid Chat\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Eksantrix\Desktop\Rapid Chat\Rapid Chat\obj\Debug\Rapid_Chat.Form1.resources
+C:\Users\Eksantrix\Desktop\Rapid Chat\Rapid Chat\obj\Debug\Rapid_Chat.frmMessage.resources
+C:\Users\Eksantrix\Desktop\Rapid Chat\Rapid Chat\obj\Debug\Rapid_Chat.frmMyData.resources
+C:\Users\Eksantrix\Desktop\Rapid Chat\Rapid Chat\obj\Debug\Rapid_Chat.frmNewAddress.resources
+C:\Users\Eksantrix\Desktop\Rapid Chat\Rapid Chat\obj\Debug\Rapid_Chat.frmSettings.resources
+C:\Users\Eksantrix\Desktop\Rapid Chat\Rapid Chat\obj\Debug\Rapid_Chat.Resources.resources
+C:\Users\Eksantrix\Desktop\Rapid Chat\Rapid Chat\obj\Debug\ResGen.read.1.tlog
+C:\Users\Eksantrix\Desktop\Rapid Chat\Rapid Chat\obj\Debug\ResGen.write.1.tlog
+C:\Users\Eksantrix\Desktop\Rapid Chat\Rapid Chat\obj\Debug\Rapid Chat.exe
+C:\Users\Eksantrix\Desktop\Rapid Chat\Rapid Chat\obj\Debug\Rapid Chat.xml
+C:\Users\Eksantrix\Desktop\Rapid Chat\Rapid Chat\obj\Debug\Rapid Chat.pdb
+C:\Users\Eksantrix\Desktop\Rapid Chat\Rapid Chat\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Eksantrix\Desktop\Rapid Chat\Rapid Chat\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Eksantrix\Desktop\Rapid Chat\Rapid Chat\obj\Debug\Rapid_Chat.Anaform.resources
+C:\Users\Eksantrix\Desktop\Rapid Chat\Rapid Chat\obj\Debug\Rapid_Chat.evrakgeldi.resources
+C:\Users\Eksantrix\Desktop\Rapid Chat\Rapid Chat\obj\Debug\Rapid_Chat.Gelenevrakkayit.resources
+C:\Users\Eksantrix\Desktop\Rapid Chat\Rapid Chat\obj\Debug\Rapid_Chat.gelenraporlama.resources
+C:\Users\Eksantrix\Desktop\Rapid Chat\Rapid Chat\obj\Debug\Rapid_Chat.Gidenevrakkayit.resources
+C:\Users\Eksantrix\Desktop\Rapid Chat\Rapid Chat\obj\Debug\Rapid_Chat.gidenraporlama.resources
+C:\Users\Eksantrix\Desktop\Rapid Chat\Rapid Chat\obj\Debug\Rapid_Chat.Giris.resources
+C:\Users\Eksantrix\Desktop\Rapid Chat\Rapid Chat\obj\Debug\Rapid_Chat.istek.resources
+C:\Users\Eksantrix\Desktop\Rapid Chat\Rapid Chat\obj\Debug\Rapid_Chat.kullaniciekle.resources
+C:\Users\Eksantrix\Desktop\Rapid Chat\Rapid Chat\obj\Debug\Rapid_Chat.yedekle.resources
+C:\Users\Eksantrix\Desktop\Rapid Chat\Rapid Chat\obj\Debug\Rapid_Chat.yenievrak.resources

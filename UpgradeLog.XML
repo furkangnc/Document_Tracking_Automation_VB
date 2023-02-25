@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Rapid Chat">
+</Property><Property Name="Solution File" Value="C:\Users\Eksantrix\Desktop\Rapid Chat\Rapid Chat.sln">
+</Property><Property Name="Date" Value="26 Mayıs 2013 Pazar">
+</Property><Property Name="Time" Value="16:37">
+</Property></Properties><Event ErrorLevel="0" Project="Rapid Chat" Source="Rapid Chat\Rapid Chat.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Rapid Chat" Source="Rapid Chat\Rapid Chat.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Rapid Chat.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Rapid Chat.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Rapid Chat" Source="Rapid Chat\Rapid Chat.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
